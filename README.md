@@ -19,8 +19,12 @@ Tech:
 
 WhatsApp-Analyzer uses a number of open source projects to work properly
 •	STREAMLIT - open-source app framework that turns data scripts into shareable web apps in minutes.
+
 •	Pandas - pandas is an open source, library providing high-performance, easy-to-use data structures and data analysis tools for the Python
+
 •	Matplotlib - is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
+
 •	Urlextract - URLExtract is python class for collecting (extracting) URLs from given text based on locating TLD.
+
 
 
